@@ -6,7 +6,7 @@ copyright "Copyright © 2013 Rory McGuire, Copyright © 2013-2014 Sönke Ludwig"
 authors "Rory McGuire" "Sönke Ludwig"
 // with optional vibe-d
 configuration "library" {
-	dependency "vibe-d" version="~>0.7.19" optional=true
+	dependency "vibe-d" version="~>0.7.19" optional=true default=true
 }
 // without vibe-d
 configuration "library-no-vibe" {
