@@ -1,5 +1,6 @@
 language: d
-sudo: false
+
+dist: trusty
 
 services:
   - cassandra
