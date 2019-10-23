@@ -14,10 +14,12 @@ There are currently no helpers, you can only execute CQL inputting or retrieving
 This fork adds support for DUB and cleans up the source code and API.
 
 ## Working
+- Version 1 of the protocol
 - Queries
 - Prepared Statements
 
 ## TODO
+- Support version 3/4 of the protocol
 - UUID stuff
 - Authenticators
 - Provide helper functions/templates
