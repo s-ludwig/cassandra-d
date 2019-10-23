@@ -1,3 +1,4 @@
 cassandra_cql/*
 cassandra-d.sublime*
 libcassandra-d.a
+dub.selections.json
